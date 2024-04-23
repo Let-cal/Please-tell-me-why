@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Let-cal](https://github.com/Let-cal)
 
-- 💬 Ask me about **HTML/CSS/SCSS - JAVA SERVLET - SQL SEVER**
+- 💬 Ask me about **HTML/CSS/SCSS - JAVA SERVLET - SQL SEVER - ReactJS**
 
 - 📫 How to reach me **letrancatlam123@gmail.com**
 
